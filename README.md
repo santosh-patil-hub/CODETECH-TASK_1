@@ -70,4 +70,9 @@ Easy-to-Understand Visualizations: The use of bar charts and line plots makes th
 Dynamic and Scalable: The script can easily be modified to add more cities or weather parameters, making it scalable for different use cases.
 
 
+Scatter Plots: 
+Shows the correlation between temperature and humidity, and pressure and temperature, for each city.
+
+https://github.com/santosh-patil-hub/CODETECH-TASK_1/issues/1#issue-2781736646
+
 
