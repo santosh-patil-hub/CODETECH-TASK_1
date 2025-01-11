@@ -76,3 +76,10 @@ Shows the correlation between temperature and humidity, and pressure and tempera
 https://github.com/santosh-patil-hub/CODETECH-TASK_1/issues/1#issue-2781736646
 
 
+Pie Chart for Weather Conditions: This shows the distribution of different weather conditions across the cities, like "Clear", "Cloudy", etc.
+
+https://github.com/santosh-patil-hub/CODETECH-TASK_1/issues/3#issue-2781738517
+
+Heatmap: A heatmap visualizing the temperature, humidity, and pressure for each city, which helps compare all cities' weather conditions at a glance.
+
+https://github.com/santosh-patil-hub/CODETECH-TASK_1/issues/2#issue-2781737853
